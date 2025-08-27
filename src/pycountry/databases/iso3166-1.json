@@ -58,6 +58,7 @@
       "alpha_3": "ARE",
       "flag": "🇦🇪",
       "name": "United Arab Emirates",
+      "alias": "uae",
       "numeric": "784"
     },
     {
@@ -203,6 +204,7 @@
       "alpha_3": "BIH",
       "flag": "🇧🇦",
       "name": "Bosnia and Herzegovina",
+      "alias": "Bosnia",
       "numeric": "070",
       "official_name": "Republic of Bosnia and Herzegovina"
     },
@@ -264,6 +266,7 @@
       "alpha_3": "BRN",
       "flag": "🇧🇳",
       "name": "Brunei Darussalam",
+      "alias": "brunei",
       "numeric": "096"
     },
     {
@@ -338,9 +341,9 @@
       "alpha_2": "CI",
       "alpha_3": "CIV",
       "flag": "🇨🇮",
-      "name": "Côte d'Ivoire",
+      "name": "Ivory Coast",
       "numeric": "384",
-      "official_name": "Republic of Côte d'Ivoire"
+      "official_name": "Republic of Ivory Coast"
     },
     {
       "alpha_2": "CM",
@@ -354,7 +357,8 @@
       "alpha_2": "CD",
       "alpha_3": "COD",
       "flag": "🇨🇩",
-      "name": "Congo, The Democratic Republic of the",
+      "name": "DR Congo",
+      "official_name": "Democratic Republic of the Congo",
       "numeric": "180"
     },
     {
@@ -393,6 +397,7 @@
       "alpha_3": "CPV",
       "flag": "🇨🇻",
       "name": "Cabo Verde",
+      "alias": "Cape Verde",
       "numeric": "132",
       "official_name": "Republic of Cabo Verde"
     },
@@ -447,8 +452,9 @@
       "alpha_3": "CZE",
       "flag": "🇨🇿",
       "name": "Czechia",
+      "alias": "Czech",
       "numeric": "203",
-      "official_name": "Czech Republic"
+      "official_name": "Czechia Republic"
     },
     {
       "alpha_2": "DE",
@@ -611,6 +617,7 @@
       "alpha_3": "GBR",
       "flag": "🇬🇧",
       "name": "United Kingdom",
+      "alias": "england",
       "numeric": "826",
       "official_name": "United Kingdom of Great Britain and Northern Ireland"
     },
@@ -1043,6 +1050,7 @@
       "alpha_3": "MAC",
       "flag": "🇲🇴",
       "name": "Macao",
+      "alias": "Macau",
       "numeric": "446",
       "official_name": "Macao Special Administrative Region of China"
     },
@@ -1378,6 +1386,7 @@
       "alpha_3": "PNG",
       "flag": "🇵🇬",
       "name": "Papua New Guinea",
+      "alias": "Papua",
       "numeric": "598",
       "official_name": "Independent State of Papua New Guinea"
     },
@@ -1394,6 +1403,7 @@
       "alpha_3": "PRI",
       "flag": "🇵🇷",
       "name": "Puerto Rico",
+      "alias": "puertorico",
       "numeric": "630"
     },
     {
@@ -1425,7 +1435,7 @@
       "alpha_2": "PS",
       "alpha_3": "PSE",
       "flag": "🇵🇸",
-      "name": "Palestine, State of",
+      "name": "Palestine",
       "numeric": "275",
       "official_name": "the State of Palestine"
     },
@@ -1449,6 +1459,7 @@
       "alpha_3": "REU",
       "flag": "🇷🇪",
       "name": "Réunion",
+      "alias": "reunion",
       "numeric": "638"
     },
     {
@@ -1462,7 +1473,8 @@
       "alpha_2": "RU",
       "alpha_3": "RUS",
       "flag": "🇷🇺",
-      "name": "Russian Federation",
+      "name": "Russia",
+      "official_name": "Russian Federation",
       "numeric": "643"
     },
     {
@@ -1546,6 +1558,7 @@
       "alpha_3": "SLV",
       "flag": "🇸🇻",
       "name": "El Salvador",
+      "alias": "Salvador",
       "numeric": "222",
       "official_name": "Republic of El Salvador"
     },
@@ -1632,9 +1645,9 @@
       "alpha_2": "SZ",
       "alpha_3": "SWZ",
       "flag": "🇸🇿",
-      "name": "Eswatini",
+      "name": "Swaziland",
       "numeric": "748",
-      "official_name": "Kingdom of Eswatini"
+      "official_name": "Kingdom of Swaziland"
     },
     {
       "alpha_2": "SX",
@@ -1718,6 +1731,7 @@
       "alpha_3": "TLS",
       "flag": "🇹🇱",
       "name": "Timor-Leste",
+      "alias": "east timor",
       "numeric": "626",
       "official_name": "Democratic Republic of Timor-Leste"
     },
@@ -1749,9 +1763,9 @@
       "alpha_2": "TR",
       "alpha_3": "TUR",
       "flag": "🇹🇷",
-      "name": "Türkiye",
+      "name": "Turkey",
       "numeric": "792",
-      "official_name": "Republic of Türkiye"
+      "official_name": "Republic of Turkey"
     },
     {
       "alpha_2": "TV",
@@ -1894,6 +1908,13 @@
       "name": "Samoa",
       "numeric": "882",
       "official_name": "Independent State of Samoa"
+    },
+    {
+      "alpha_2": "XK",
+      "alpha_3": "XKX",
+      "name": "Kosovo",
+      "official_name": "Republic of Kosovo",
+      "flag": "🇽🇰"
     },
     {
       "alpha_2": "YE",
